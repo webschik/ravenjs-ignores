@@ -1,0 +1,36 @@
+{
+  "name": "ravenjs-ignores",
+  "version": "1.0.0",
+  "description": "Ignore list of common errors and URLs for Raven.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webschik/ravenjs-ignores.git"
+  },
+  "keywords": [
+    "ravenjs",
+    "raven",
+    "sentry",
+    "ignore",
+    "blacklist"
+  ],
+  "author": "webschik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webschik/ravenjs-ignores/issues"
+  },
+  "homepage": "https://github.com/webschik/ravenjs-ignores#readme",
+  "devDependencies": {
+    "jest": "^22.1.1"
+  },
+  "jest": {
+    "collectCoverage": false,
+    "testRegex": "(/test/.*|\\.(spec))\\.(ts|tsx|js)$",
+    "testPathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  }
+}
