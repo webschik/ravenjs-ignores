@@ -1,6 +1,6 @@
 {
   "name": "ravenjs-ignores",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ignore list of common errors and URLs for Raven.js",
   "main": "index.js",
   "scripts": {
