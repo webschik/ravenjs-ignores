@@ -1,4 +1,5 @@
 # ravenjs-ignores
+> [Raven.js](https://github.com/getsentry/raven-js) ignore options for the common errors and URLs from 3rd party scripts
 
 # Install
 
