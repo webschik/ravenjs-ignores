@@ -1,4 +1,8 @@
 # ravenjs-ignores
+[![npm](https://img.shields.io/npm/dm/ravenjs-ignores.svg)](https://www.npmjs.com/package/ravenjs-ignores)
+[![npm](https://img.shields.io/npm/v/ravenjs-ignores.svg)](https://www.npmjs.com/package/ravenjs-ignores)
+[![npm](https://img.shields.io/npm/l/ravenjs-ignores.svg)](https://www.npmjs.com/package/ravenjs-ignores)
+
 > [Raven.js](https://github.com/getsentry/raven-js) ignore options for the common errors and URLs from 3rd party scripts
 
 # Install
