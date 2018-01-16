@@ -52,5 +52,6 @@ module.exports = [
 
     // Analytics
     /hotjar\./i,
-    /doubleclick\.net/i
+    /doubleclick\.net/i,
+    /netstats\.space/i
 ];
