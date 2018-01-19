@@ -53,5 +53,8 @@ module.exports = [
     // Analytics
     /hotjar\./i,
     /doubleclick\.net/i,
-    /netstats\.space/i
+    /netstats\.space/i,
+
+    // https://*.cloudfront.net/m/statistic/i.js
+    /\.cloudfront\..+\/statistic\//i
 ];
