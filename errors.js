@@ -72,6 +72,9 @@ module.exports = [
     // SafeBrowse extension
     'jQSB',
 
+    // ad blockers
+    ' BlockAdBlock',
+
     // Proxy error
     'ICAP Error',
 
